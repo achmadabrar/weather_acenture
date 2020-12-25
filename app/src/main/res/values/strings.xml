@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccentureTest</string>
+    <string name="not_found">City Not Found</string>
+</resources>
